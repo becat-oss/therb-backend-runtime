@@ -1,0 +1,15 @@
+{
+    "name": "therb-backend-runtime",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^5.0.0",
+        "@pulumi/awsx": "^0.40.0",
+        "@pulumi/pulumi": "^3.0.0",
+        "@types/adm-zip": "^0.5.0",
+        "adm-zip": "^0.5.9",
+        "jszip": "^3.10.1"
+    }
+}
